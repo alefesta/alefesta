@@ -27,7 +27,7 @@ Like chamaleons also Product Manager have to balance many skills, expecially on 
 
 - 🌱 I’m currently learning ...
 
-  - Check the status of my 2021 (roadmap) [https://github.com/users/alefesta/projects/1]
+  - Check the status of my 2021 [roadmap](https://github.com/users/alefesta/projects/1)
 
 # Super! Open to collaborate?
 
