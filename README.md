@@ -1,4 +1,6 @@
-- 👋 Hi, I’m **@alefesta**
+# Who am I ?
+
+👋 Hi, I’m **@alefesta**
 
 I’m your next Senior Product Manager. 
 Learn about me, about my skills and working experiences. Let me show you my personal projects and convince you I’m a great fit for your company.
@@ -10,6 +12,8 @@ to convince them “We” are the right company to sign with or to present at a 
 A great Team-player, with the right expertise to start a product from scratch and deliver it on time as well as manage your existing portfolio during the entire lifecycle of
 each product.
 
+## What are you interested in?
+
 - 👀 I’m interested in ...
 
 Like chamaleons also Product Manager have to balance many skills, expecially on the “Technical” side. Currently experimenting in:
@@ -18,19 +22,26 @@ Like chamaleons also Product Manager have to balance many skills, expecially on 
   - #electron
   - #machinelearning
   - #kubeflow
-  
+ 
+## Cool! What are you learning?
+
 - 🌱 I’m currently learning ...
 
   - #coding
+
+# Super! Open to collaborate?
+
 - 💞️ I’m looking to collaborate on ...
 
   - ideas
   - projects
   - innovation
-  
+
+# Sounds great so how do I reach you?
+
 - 📫 How to reach me ...
 
-  - this is the first step leave an issue on this repo ;)
+  - this is the first step leave an issue [here](https://github.com/alefesta/alefesta/issues/new/choose)
   - twitter: @bringyourownai
   - email: afesta@alfweb.com
   - linkedin: https://www.linkedin.com/in/alefesta/
