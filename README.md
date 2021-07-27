@@ -24,7 +24,7 @@ Like chamaleons also Product Manager have to balance many skills, expecially on 
   - #kubeflow
  
 ## Cool! What are you learning?
-![Progress](https://progress-bar.dev/100/?scale=1000&title=Completed&width=400)
+![Progress](https://progress-bar.dev/43/)
 
   - Check the status of my 2021 [roadmap](https://github.com/users/alefesta/projects/1)
   - Check the issues and PR's open [here](https://github.com/alefesta/alefesta)
