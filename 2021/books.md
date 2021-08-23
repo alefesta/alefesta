@@ -23,7 +23,7 @@
 -  "A Promised Land "
     - @Author: Barack Obama
     - @Topics: #biography
-    - @Status: reading
+    - @Status: done
 
 -  "The Sports Gene: Inside the Science of Extraordinary Athletic Performance"
     - @Author: David Epstein
@@ -48,8 +48,9 @@
 -  "The Basic Laws of Human Stupidity"
     - @Author: Carl, M. Cipolla
     - @Topics: #humor, #psychology
-    - @Status: to read
+    - @Status: done
+   
  - "The Golden Rules: 10 Steps to World-Class Excellence in Your Life and Work"
     - @Author: Bob, Bowman
     - @Topics: #sport, #psychology
-    - @Status: to read
+    - @Status: currently reading
