@@ -12,6 +12,8 @@ to convince them “We” are the right company to sign with or to present at a 
 A great Team-player, with the right expertise to start a product from scratch and deliver it on time as well as manage your existing portfolio during the entire lifecycle of
 each product.
 
+**I'm also the co-creator and mantainer of [K3ai](https://github.com/k3ai): A simple,fast,reliable tool to deploy end-to-end AI stacks (Infra->AI tools->Code)**
+
 ## What are you interested in?
 
 - 👀 I’m interested in ...
