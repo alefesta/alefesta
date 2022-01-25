@@ -26,7 +26,7 @@ Like chamaleons also Product Manager have to balance many skills, expecially on 
   - #kubeflow
  
 ## Cool! What are you learning?
-![Progress](https://progress-bar.dev/633/)
+![Progress](https://progress-bar.dev/63/)
 
   - Sociology, Anthropology, Coding, Mathematics
   - Everything and nothing I simply try my best to grow as human and professional
